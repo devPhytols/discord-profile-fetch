@@ -1,1 +1,1 @@
-# discord-profile-grabber
+# discord-profile-fetch
